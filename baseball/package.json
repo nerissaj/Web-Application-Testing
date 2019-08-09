@@ -1,0 +1,13 @@
+{
+  "name": "basebase-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^8.0.9"
+  }
+}
